@@ -1,0 +1,10 @@
+column_name,column_type,null,key,default,extra
+extension_name,VARCHAR,YES,NULL,NULL,NULL
+loaded,BOOLEAN,YES,NULL,NULL,NULL
+installed,BOOLEAN,YES,NULL,NULL,NULL
+install_path,VARCHAR,YES,NULL,NULL,NULL
+description,VARCHAR,YES,NULL,NULL,NULL
+aliases,VARCHAR[],YES,NULL,NULL,NULL
+extension_version,VARCHAR,YES,NULL,NULL,NULL
+install_mode,VARCHAR,YES,NULL,NULL,NULL
+installed_from,VARCHAR,YES,NULL,NULL,NULL
